@@ -137,8 +137,8 @@ class Ui_OutputDialog(QDialog):
             self.imgLabel.setScaledContents(True)
 
     '''def mail(self):
-        EMAIL_ADDRESS = 'mrhijokar@gmail.com'
-        EMAIL_PASSWORD = 'mrhijokar@#5432'
+        EMAIL_ADDRESS = '#'
+        EMAIL_PASSWORD = '#'
 
         #contacts = ['mrhijokar@gmail.com', 'yashbhadja31@gmail.com']
 
