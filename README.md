@@ -16,5 +16,9 @@ cmake,
 opencv,
 numpy
 
+# Outputs
+![Screenshot (3)](https://user-images.githubusercontent.com/33024443/120984685-84172d80-c798-11eb-8de5-1674b8bac6e3.png)
+
+
 
 
